@@ -1,7 +1,8 @@
-## Hi there 👋
+## Olá pessoal!
 
-<!--
-**danilinhotj187/danilinhotj187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sou o Danilo, trabalho em uma empresa de fabricação de fitas para amarração de cargas, a fitacabo, tenho 23 anos e estou cursando Desenvolvimento de sistemas no SENAI, com o objetivo de entrar no mercado de trabalho na área.
+
+####
 
 Here are some ideas to get you started:
 
