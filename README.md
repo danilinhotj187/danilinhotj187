@@ -4,4 +4,8 @@
 
 #### Gosto de aproveitar meu tempo livre, passando tempo com minha família, jogando videogames, jogando futebol, sou torcedor fanático do Santos e gosto de assistir todos os jogos do time e acompanhar os campeonatos.
 
-[![Meu Facebook](<img src="path/to/https://t.ctcdn.com.br/DMxRsoFn2EzzWk6WaToT6sIidL8=/i489928.jpeg" width="50%">)](https://www.facebook.com/danilo.gutierre.50)
+<a href="https://www.facebook.com/danilo.gutierre.50">
+  EU SOU LINK 
+<img src="https://t.ctcdn.com.br/DMxRsoFn2EzzWk6WaToT6sIidL8=/i489928.jpeg" width="20%">
+  EU TAMBEM SOU LINK
+</a>
